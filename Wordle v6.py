@@ -34,9 +34,6 @@ def wordCheck(word, result, list):
         print(mutableDict.get(letterCount))
         letterCount += 1
 
-        #print(mutableDict[letterCount])
-
-
 input_word = input("what word? ")
 input_result = input("what result? ")
 test_list = []
